@@ -4,10 +4,8 @@
 
 Sign up for a portfolio with us and test the crypto markets without the risk of losing your own money. This is a great application for you to hone your skills when it comes to investing in the markets. Do you have what it takes to strike it rich with crypto? Try our app and find out!
 
-Contributions: Front-End React was handled by Riley, Dakota, Jake Back-End implementation was handled by Aman, Jill and Jake
-
 Contributions:
-Front-End React was handled by Riley, Dakokta, Jake
+Front-End React was handled by Riley, Dakota, Jake
 Back-End implementation was handled by Aman, Jill and Jake
 
 ### Note: to run the repo you will need the follow:
