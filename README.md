@@ -8,11 +8,11 @@ Contributions:
 Front-End React was handled by Riley, Dakota, Jake
 Back-End implementation was handled by Aman, Jill and Jake
 
-### Note: to run the repo you will need the follow:
-* to have a mysql server running
-* to install the npm packages for react/express package.jsons
-* to have a.env file with the db name/username/password
-* to type to the cli "npm run dev"
+### Note: to run the repo you will need the following:
+* have a mysql server running
+* install the npm packages for react/express package.jsons
+* have a.env file with the db name/username/password
+* type to the cli "npm run dev"
 
 
 https://project2-crypto.herokuapp.com/
